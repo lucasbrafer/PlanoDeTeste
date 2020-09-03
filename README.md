@@ -1,4 +1,4 @@
-## Documentos para a documentação dos testes :books:
+## Documentação dos testes :books:
 Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os testes que serão realizados no sistema escolhido, estes documentos foram feitos para disciplina Fundamentos de Teste de Software 
 
 ## Arquivos
