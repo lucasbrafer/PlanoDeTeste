@@ -7,5 +7,5 @@ Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os 
 1. [:blue_book: Relatório de Incidentes e análise de Falhas](RelatoriodeOcorrenciadeIncidentes.pdf)
 1. [:orange_book: Plano de Testes](PlanoDeTestes.pdf)
 
-## License
+## Licença
 MIT [LICENSE.md](LICENSE.md).
