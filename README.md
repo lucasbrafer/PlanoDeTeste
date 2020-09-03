@@ -8,4 +8,4 @@ Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os 
 1. [:orange_book: Plano de Testes](PlanoDeTestes.pdf)
 
 ## Licença
-[MIT](LICENSE.md).
+[MIT](LICENSE.md)
