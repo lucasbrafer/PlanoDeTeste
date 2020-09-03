@@ -3,6 +3,6 @@ Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os 
 
 ## Arquivos
 1. [:blue_book: Plano de Testes](PlanoDeTestes.pdf)
-1. [:orange_book: Cenários E Casos De Testes](CénarioeCasosDeTestes.pdf)
-1. [:blue_book: Relatório De Incidentes E análise De Falhas](RelatoriodeOcorrenciadeIncidentes.pdf)
+1. [:orange_book: Cenários e Casos de Testes](CénarioeCasosDeTestes.pdf)
+1. [:blue_book: Relatório de Incidentes e análise de Falhas](RelatoriodeOcorrenciadeIncidentes.pdf)
 1. [:orange_book: Plano de Testes](PlanoDeTestes.pdf)
