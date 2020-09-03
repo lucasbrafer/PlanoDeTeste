@@ -8,6 +8,5 @@ Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os 
 1. [:orange_book: Relatório de Resumo dos Testes](RelatórioResumodeTestes.pdf)
 1. [:blue_book: Apresentação Final](ApresentacoFinal.pdf)
 
-
 ## Licença
-[MIT](LICENSE.md)
+Este projeto está sob a Licença [MIT](LICENSE.md)
