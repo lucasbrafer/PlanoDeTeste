@@ -5,7 +5,9 @@ Estes arquivos foram desenvolvidos com a finalidade de planejar e documentar os 
 1. [:blue_book: Plano de Testes](PlanoDeTestes.pdf)
 1. [:orange_book: Cenários e Casos de Testes](CénarioeCasosDeTestes.pdf)
 1. [:blue_book: Relatório de Incidentes e análise de Falhas](RelatoriodeOcorrenciadeIncidentes.pdf)
-1. [:orange_book: Plano de Testes](PlanoDeTestes.pdf)
+1. [:orange_book: Relatório de Resumo dos Testes](RelatórioResumodeTestes.pdf)
+1. [:blue_book: Apresentação Final](ApresentacoFinal.pdf)
+
 
 ## Licença
 [MIT](LICENSE.md)
